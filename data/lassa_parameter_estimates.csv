@@ -1,0 +1,11 @@
+R0,0.0631
+R0_dispersion,NA
+timing_shape1,9.532623
+timing_shape2,6.438107
+incubation_shape,11.1191707
+incubation_scale,0.9224181
+incubation_rate,1.084107
+duration_shape,1.862467
+duration_rate,0.164666
+duration_scale,6.072900
+mortality_rate,0.2

@@ -1,0 +1,13 @@
+incubation_shape,51.728061
+incubation_rate,9.297431
+serial_int_shape,7.4679229
+serial_int_rate,0.6747879
+duration_shape,26.681669
+duration_rate,1.976382
+R0_shape,8.181965
+R0_rate,13.473261
+R0,0.6072742
+R0_dispersion,0.26
+timing_shape1,1.173544
+timing_shape2,1.457933
+mortality_rate,0.22

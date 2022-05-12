@@ -1,0 +1,15 @@
+incubation_shape,138.63404
+incubation_rate,14.04606
+duration_shape,642.65926
+duration_rate,99.02907
+R0_shape,446.253
+R0_rate,828.1376
+R0,0.32522564
+R0_dispersion,0.048
+timing_shape1,8.127667
+timing_shape2,7.388549
+mortality_rate,NA
+asymp.BGD_shape1,0.1286299
+asymp.BGD_shape2,4.5865227
+asymp.MYS_shape1,2.190217
+asymp.MYS_shape2,6.681727

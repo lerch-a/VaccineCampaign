@@ -1,0 +1,295 @@
+lowest_gadm_level_entered,ADM_0,ADM1_name,ADM1_code,ADM2_name,ADM2_code,YEAR,END_YEAR,MONTH,END_MONTH,WEEK,END_WEEK,CASES,DEATHS,OCCUPATION,CUMULATIVE ,IMPORTED,NOTES,SOURCE1,SOURCE2,ProMed_NUM
+1,BDI,Muyinga,BDI.13_1,,,2007,,,,,,200,1,,,1,imported from Tanzania,ProMed,,20070519.16
+2,CAF,Ombella-M'Poko,CAF.12_1,Boali,CAF.12.2_1,2019,,8,,,,15,0,,,,unclear in source wording if it's 8 or 15 cases,ProMed (Central African Republic: WHO),,20190904.67
+1,CHN,Henan Province,CHN.12_1,,,2016,,7,,29,,1,1,,,1,imported from Angola,"ProMed, China: ex Angola",,20160725.44
+1,EGY,"Aswan, Ismailia, Sharkia,Giza,Qena","EGY.17_1, EGY.7_1, EGY.16_1, EGY.8_1, EGY.25_1",,,1993,1993,5,8,,,128,NA,,,,,Kandeel,Arthur et. al ,
+1,EGY,"Aswan, Assiut ","EGY.17_1, EGY.18_1",,,1997,1997,4,8,,,7,NA,,,,,Kenawy et. al,,
+0,EGY,,,,,2003,2003,6,10,,,153,74,,,,,sciencedirect.com/science/article/pii/S0001706X1730966X,,
+2,EGY,Kafr ash Shaykh,EGY.23_1,Sidi Salim ,EGY.23.10_1,2003,,8,,,35,45,17,,,,,"ProMed, human - Egypt (02)",,20030902.22
+0,EGY,,,,,2003,,,,,,191,38,,,,,sciencedirect.com/science/article/pii/S0001706X1730966X,,
+0,EGY,,,,,2003,,,,,,29,NA,,,,,sciencedirect.com/science/article/pii/S0001706X1730966X,,
+0,FRA,,,,,2015,,8,,33,,1,0,,,1,imported from Mali,"ProMed, France ex Mali, 2015",,20160506.42
+0,GMB,,,,,2002,,,,,,1,NA,,,,,WHO February 2018,,
+1,GMB,Banjul,GMB.1_1,,,2018,,1,,3,,1,1,,,,,"Promed, Gambia: (BJ) WHO",,20180124.56
+1,KEN,Garissa,KEN.7_1,,,1997,,12,,,,35,NA,,,,,CDC 1998,https://www.cdc.gov/mmwr/preview/mmwrhtml/00051976.htm,
+0,KEN,,,,,1998,,,,,,11,NA,,,,,CDC 1998,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732454/,
+1,KEN,Garissa,KEN.7_1,,,2006,2007,11,1,,,175,51,,,,,CDC Kenya 2007,,
+2,KEN,Garissa,KEN.7_1,Ijara,KEN.7.5_1,2006,2007,11,1,,,125,37,,,,,CDC Kenya 2007,,
+1,KEN,Isiolo,KEN.9_1,,,2006,2007,11,1,,,8,2,,,,,CDC Kenya 2007,,
+1,KEN,Kajiado,KEN.10_1,,,2006,2007,11,1,,,3,1,,,,,CDC Kenya 2007,,
+1,KEN,Kilifi,KEN.14_1,,,2006,2007,11,1,,,38,11,,,,,CDC Kenya 2007,,
+2,KEN,Kilifi,KEN.14_1,Malindi,KEN.14.6_1,2006,2007,11,1,,,8,2,,,,,CDC Kenya 2007,,
+1,KEN,Kirinyanga,KEN.15_1,,,2006,2007,11,1,,,2,0,,,,,CDC Kenya 2007,,
+1,KEN,Nairobi,KEN.30_1,,,2006,2007,11,1,,,1,0,,,,,CDC Kenya 2007,,
+2,KEN,Murang'a,KEN.29_1,Maragwa,KEN.29.6_1,2006,2007,11,1,,,1,0,,,,,CDC Kenya 2007,,
+1,KEN,Taita Taveta,KEN.39_1,,,2006,2007,11,1,,,1,0,,,,,CDC Kenya 2007,,
+1,KEN,Tana River,KEN.40_1,,,2006,2007,11,1,,,16,5,,,,,CDC Kenya 2007,,
+1,KEN,Wajir,KEN.46_1,,,2006,2007,11,1,,,26,8,,,,,CDC Kenya 2007,,
+1,KEN,Garissa,KEN.7_1,,,2006,2007,12,1,,,132,54,,,,repeat data with spatial information,"ProMed, Eastern Africa (04): Kenya, WHO",,20070116.02
+2,KEN,Garissa,KEN.7_1,Ijara,KEN.7.5_1,2006,2007,12,1,,,58,10,,,,repeat data with spatial information,"ProMed, Eastern Africa (04): Kenya, WHO",,20070116.02
+1,KEN,Tana River,KEN.40_1 ,,,2006,2007,12,1,,,15,6,,,,repeat data with spatial information,"ProMed, Eastern Africa (04): Kenya, WHO",,20070116.02
+1,KEN,Wajir,KEN.46_1,,,2006,2007,12,1,,,15,12,,,,repeat data with spatial information,"ProMed, Eastern Africa (04): Kenya, WHO",,20070116.02
+1,KEN,Taita Taveta,KEN.39_1,,,2007,,1,,3,,1,1,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+2,KEN,Garissa,KEN.7_1,Ijara,KEN.7.5_1,2007,,1,,3,,60,12,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+1,KEN,Garissa,KEN.7_1,,,2007,,1,,3,,29,2,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+1,KEN,Isiolo,KEN.9_1,,,2007,,1,,3,,7,0,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+1,KEN,Kilifi,KEN.14_1,,,2007,,1,,3,,30,11,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+2,KEN,Kilifi,KEN.14_1,Malindi,KEN.14.6_1,2007,,1,,3,,7,2,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+1,KEN,Tana River,KEN.40_1,,,2007,,1,,3,,1,1,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+1,KEN,Wajir,KEN.46_1,,,2007,,1,,3,,12,0,,,,,"ProMed, Eastern Africa (06): Kenya",,20070121.03
+1,KEN,Garissa,KEN.7_1,,,2007,,1,,4,,14,1,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+2,KEN,Garissa,KEN.7_1,Ijara,KEN.7.5_1,2007,,1,,4,,7,1,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+1,KEN,Isiolo,KEN.9_1,,,2007,,1,,4,,1,0,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+1,KEN,Kajiado,KEN.10_1,,,2007,,1,,4,,3,3,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+2,KEN,Kiambu,KEN.13_1,Thika,KEN.13.12_1,2007,,1,,4,,2,0,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+1,KEN,Kirinyanga,KEN.15_1,,,2007,,1,,4,,4,1,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+2,KEN,Murang'a,KEN.29_1,Maragwa,KEN.29.6_1,2007,,1,,4,,1,0,,,,,"ProMed, Eastern Africa (11): Kenya, Somalia",,20070131.04
+1,KEN,Baringo,KEN.1_1,,,2007,2007,1,2,5,,NA,11,,,,,"ProMed, Eastern Africa (13): Kenya",,20070203.04
+1,KEN,Taita Taveta,KEN.39_1,,,2007,2007,1,2,5,,NA,5,,,,,"ProMed, Eastern Africa (13): Kenya",,20070203.04
+1,KEN,Tana River,KEN.40_1,,,2007,,2,,6,,NA,5,,,,,"ProMed, Eastern Africa (17): Kenya",,20070214.05
+0,KEN,,,,,2007,2007,2,3,7,9,NA,16,,,,total of 154 deaths,"ProMed, Eastern Africa (21): Kenya, vaccination",,20070307.08
+0,KEN,,,,,2007,2007,3,5,10,17,NA,1,,,,total of 155 deaths,"ProMed, Eastern Africa (30): Kenya & Tanzania",,20070502.14
+1,KEN,Nakuru,KEN.31_1 ,,,2007,,9,,,,2,2,,,,,"ProMed, human - Kenya: RFI",,20070921.31
+1,KEN,Wajir,KEN.46_1,,,2018,,6,,24,,19,6,,,,,"ProMed, Kenya (04): Wajir",,20180615.59
+1,KEN,Siaya,KEN.38_1,,,2018,,6,,24,25,1,NA,,,,"By June 22, at least 10 deaths in Wajir and Siaya, don't know distribution","ProMed, Eastern Africa (03): Kenya",,20180621.59
+2,KEN,Migori,KEN.27_1,Uriri,KEN.27.8_1 ,2018,,6,,24,,1,NA,,,,,"ProMed, Eastern Africa (03): Kenya",,20180621.59
+1,KEN,Siaya,KEN.38_1,,,2018,2018,6,6,24,25,NA,4,,,,"By June 22, at least 10 deaths in Wajir and Siaya, don't know distribution","ProMed, Eastern Africa (04): Kenya",,20180622.59
+1,KEN,Marsabit,KEN.25_1,,,2018,2018,6,6,24,25,2,1,,,,,"ProMed, Eastern Africa (06): Kenya, South Africa",,20180625.59
+1,KEN,Wajir,KEN.46_1,,,2018,,6,,25,,5,0,,,,,"ProMed, Eastern Africa (06): Kenya, South Africa",,20180625.59
+1,KEN,Wajir,KEN.46_1,,,2018,,6,,26,,56,0,,,,,"ProMed, Eastern Africa (08): Kenya, Uganda, human, animals, spread",,20180701.59
+1,KEN,Marsabit,KEN.25_1,,,2018,,6,,26,,9,2,,,,,"ProMed, Eastern Africa (10): Kenya",,20180704.59
+1,KEN,Wajir,KEN.46_1,,,2018,,7,,27,29,1,0,,,,,"ProMed, Eastern Africa (20): Kenya",,20180725.59
+0,KEN,,,,,2018,,,,,,18,NA,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+2,MDG,Toamasina,MDG.5_1,Analanjirofo,MDG.5.2_1,1990,,4,,,,15,1,,,,,Morvan 1991,,
+2,MDG,Antananarivo,MDG.1_1,Analamanga,MDG.1.1_1,1991,,2,,,,1,1,,,,,Morvan 1992 (1),,
+2,MDG,"Toamasina, Antananarivo, Toliary","MDG.5_1, MDG.1_1, MDG.6_1","Alaotra Mangoro, Analamanga, Itasy, Vakinakaratra, Anosy ","MDG.5.1_1, MDG.1.1_1, MDG.1.3_1, MDG.1.4_1, MDG.6.2_1",2008,,4,,,17,418,17,,,,59 lab confirmed,"ProMed, human, bovine - Madagascar",,20080419.14
+0,MDG,,,,,2008,2008,5,6,,,102,3,,,,25 lab confirmed,"ProMed, Madagascar (02)",,20080716.22
+0,MDG,,,,,2008,2009,,,,,180,,,,,,https://jvi.asm.org/content/85/13/6162,,
+0,MLI,,,,,2015,,,,,,2,2,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,Mali 2015,
+0,MLI,Kidal,MLI.4_1,,,2016,,9,,37,,3,0,,,,,Tong 2019,,
+2,MLI,Koulikoro Mopti,MLI.5_1,Kati (Oulessebougou),MLI.5.4_1,2017,,7,,29,,1,0,,,,,"ProMed, Mali (02): (KK)",,20170721.52
+2,MRT,Hodh el Gharbi,MRT.8_1,Aïoun,MRT.8.1_1,1998,,9,,,,36,6,,,,,"ProMed, Mauritania (02)","https://wwwnc.cdc.gov/eid/article/7/6/01-0627_article#:~:text=In%201998%2C%20a%20Rift%20Valley,death%20in%20humans%20(1)",19981111.22
+2,MRT,Gorgol,MRT.5_1,Foum Gleita,MRT.5.2_1,2002,,11,,,,1,0,,,,,"ProMed, human - Mauritania: OIE",,20030105
+1,MRT,Tagant,MRT.11_1,,,2003,,9,,40,,1,0,,,,,Faye 2007,,
+1,MRT,Assaba,MRT.2_1,,,2003,,10,,43,,3,1,,,,,Faye 2007,,
+1,MRT,Brakna,MRT.3_1 ,,,2003,,10,,43,,9,5,,,,,Faye 2007,,
+1,MRT,Trarza,MRT.13_1,,,2003,,10,,43,,6,2,,,,,Faye 2007,,
+1,MRT,Gorgol,MRT.5_1,,,2003,,10,,43,,2,1,,,,,Faye 2007,,
+2,MRT,Adrar,MRT.1_1,Aoujeft,MRT.1.1_1,2010,,11,,,,45,17,,,,calculated 45 from the total on the human outbreaks sheet,"Faye 2014, ProMed, livestock, human - Mauritania",,20101202.43
+0,MRT,,,,,2010,,,,,,18,13,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+2,MRT,Tagant,MRT.11_1,"Moudjeria, Tiguidja/Tidjigja","MRT.11.1_1, MRT.11.3_1",2012,2012,9,11,35,48,20,7,,,,,Sow 2014,,
+2,MRT,Hodh el Gharbi,MRT.8_1,"Tamcheket, Tintane","MRT.8.3_1,  MRT.8.4_1",2012,2012,9,11,35,48,10,1,,,,,Sow 2014,,
+2,MRT,Hodh ech Chargui,MRT.7_1,"Djigueni, Amourj, Nema","MRT.7.3_1, MRT.7.1_1, MRT.7.4_1",2012,2012,9,11,35,48,4,2,,,,,Sow 2014,,
+2,MRT,Brakna,MRT.3_1 ,"Macta lajar/Magta-Lahjar, Aleg","MRT.3.5_1, MRT.3.1_1",2012,2012,9,11,35,48,3,1,,,,,Sow 2014,,
+2,MRT,Trarza,MRT.13_1,Ouad Naga,MRT.13.4_1,2012,2012,9,11,35,48,2,1,,,,,Sow 2014,,
+2,MRT,Assaba,MRT.2_1,"Kiffa, Guerou","MRT.2.5_1, MRT.2.3_1",2012,2012,9,11,35,48,2,1,,,,,Sow 2014,,
+1,MRT,Hodh el Gharbi,MRT.8_1,Aïoun,MRT.8.1_1,2015,2015,9,11,37,47,1,0,,,,,Bob 2017,,
+1,MRT,Brakna,MRT.3_1 ,Aleg,,2015,2015,9,11,37,47,3,1,,,,,Bob 2017,,
+1,MRT,Nouakchott,MRT.10_1,Amitié,,2015,2015,9,11,37,47,2,0,,,,,Bob 2017,,
+1,MRT,Trarza,MRT.13_1,Boutilimit,,2015,2015,9,11,37,47,1,0,,,,,Bob 2017,,
+1,MRT,Nouakchott,MRT.10_1,Cheikh Zayed ,,2015,2015,9,11,37,47,3,0,,,,,Bob 2017,,
+1,MRT,Gorgol,MRT.5_1,Kaédi,,2015,2015,9,11,37,47,2,0,,,,,Bob 2017,,
+1,MRT,Assaba,MRT.2_1,Kiffa,,2015,2015,9,11,37,47,16,4,,,,,Bob 2017,,
+1,MRT,Nouakchott,MRT.10_1,Mere et Enfant,,2015,2015,9,11,37,47,2,0,,,,,Bob 2017,,
+1,MRT,Nouakchott,MRT.10_1,National,,2015,2015,9,11,37,47,20,3,,,,,Bob 2017,,
+1,MRT,Brakna,MRT.3_1 ,Bababé,,2015,2015,9,11,37,47,1,0,,,,,Bob 2017,,
+1,MRT,Hodh ech Chargui,MRT.7_1,Bassiknou,,2015,2015,9,11,37,47,1,0,,,,,Bob 2017,,
+1,MRT,Brakna,MRT.3_1 ,Maghta Lahjar,,2015,2015,9,11,37,47,4,3,,,,,Bob 2017,,
+1,MRT,Tagant,MRT.11_1,Moudjeria,,2015,2015,9,11,37,47,1,1,,,,,Bob 2017,,
+1,MRT,Nouakchott,MRT.10_1,,,2017,,6,,22,,1,0,,,,,"ProMed, Mauritania: RFI",,20170605.51
+1,MRT,Tagant,MRT.11_1,,,2020,,9,11,,,38,,,,,,,"ProMed, MAURITANIA (02): ANIMAL, HUMAN, SPREAD, SUDAN SUSPECTED","20201001.7828576,20201114.7943971"
+1,MRT,"Brakna, Trarza, Gorgol, Adrar, Assaba, Hodh El Gharby, Hodh El Chargui, Guidimaka, Nauakchott Sud, Nauakchott Quest, ","MRT.1_1,MRT.2_1,MRT.3_1,MRT.5_1,MRT.13_1,MRT.7_1,MRT.8_1,MRT.6_1,MRT.10_1",,,2020,,9,11,,,37,25,,,,subtracted breeders from cum. 38 of 75 cases were in Tagant,,"ProMed, MAURITANIA (02): ANIMAL, HUMAN, SPREAD, SUDAN SUSPECTED","20201001.7828576,20201114.7943971"
+0,MYT,Mayotte,MYT,,,2007,2008,9,5,,,10,0,,,,,Sissoko 2009,,
+0,MYT,Mayotte,MYT,M'Tsangamouji,,2008,,3,,10,,NA,NA,,,,,Promed,,20080522.17
+0,MYT,Mayotte,MYT,,,2009,,,,,,NA,NA,,,,,Métras 2016,,
+0,MYT,Mayotte,MYT,,,2010,,,,,,NA,NA,,,,,Métras 2016,,
+0,MYT,Mayotte,MYT,,,2018,2018,11,11,47,,1,NA,,,,,Youssof 2020,"ProMed, Mayotte: increase in cases, humans, cattle,",20190202.63
+0,MYT,Mayotte,MYT,,,2018,2019,12,1,1,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2018,2018,12,12,51,,2,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2018,2018,12,12,52,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,1,1,2,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,1,1,3,,8,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,1,1,4,,8,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,1,2,5,,7,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,2,2,6,,17,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,2,2,7,,18,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,2,2,8,,16,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,2,3,9,,11,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,3,3,10,,9,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,3,3,11,,11,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,3,3,12,,5,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,3,3,13,,3,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,3,4,14,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,4,4,15,,4,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,4,4,16,,4,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,4,4,17,,3,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,4,5,18,,2,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,5,5,19,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,5,5,20,,4,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,5,5,21,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,5,6,22,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,6,6,23,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,6,6,26,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,6,7,27,,1,NA,,,,,Youssof 2020,,
+0,MYT,Mayotte,MYT,,,2019,2019,7,7,28,,1,NA,,,,,Youssof 2020,,
+0,NAM,,,,,2010,2010,8,9,,,3,0,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,2016,7,8,31,,1,0,nomadic stockbreeders,,,,http://www.fao.org/3/a-i7055e.pdf,,20190904.67
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,8,,32,,10,4,nomadic stockbreeders,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,8,,33,,6,7,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,8,,34,,8,5,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,8,,35,,10,2,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,9,,36,,7,3,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,9,,37,,12,1,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,9,,38,,20,3,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,9,,39,,14,3,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+1,NER,Tahoua,NER.6_1,,,2016,2016,9,10,39,40,26,5,,,,"source reports 90 total cases and 28 total deaths, 26 and 5 come from only accounting for Promed rows",,"ProMed, Niger (04): (TH)",20161014.46
+2,NER,Tahoua,NER.6_1,Tchin-Tabarade,NER.6.7_1,2016,,10,,40,,13,0,,,,,http://www.fao.org/3/a-i7055e.pdf,,
+1,NER,Tahoua,NER.6_1,,,2016,2016,10,11,41,46,140,4,,,,"total now at 230, 32 deaths as of Nov 17 2016","ProMed, Niger (05): (TH)",,20161121.46
+1,NER,Tahoua,NER.6_1,,,2016,,11,,47,,36,0,,,,total 266 as of 21 Nov 2016,"ProMed, Niger (06): (TH) WHO, RFI",,20161130.47
+0,RWA,,,,,2017,,,,,,4,2,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+0,RWA,,,,,2018,,,,,,12,2,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+1,SAU,Jizan,SAU.10_1,,,2000,,9,,39,,98,0,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+0,SAU,,,,,2000,,9,,39,,15,24,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+1,SAU,Ar Riyad ,SAU.7_1,,,2000,,9,,39,,2,0,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+1,SAU,Asir,SAU.1_1,,,2000,,9,,39,,3,0,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+1,SAU,Jizan,SAU.10_1,,,2000,,9,,39,,7,2,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+1,SAU,Makkah,SAU.11_1,Jeddah,,2000,,9,,39,,1,0,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+1,SAU,Narjan,SAU.12_1,,,2000,,9,,39,,1,0,,,,,"ProMed, Saudi Arabia & Yemen",,20000925.17
+1,SAU,Jizan,SAU.10_1,,,2000,,9,,39,,33,7,,,,,"ProMed, Saudi Arabia & Yemen (03)",,20000927.17
+0,SAU,,,,,2000,,9,,39,,41,10,,,,,"ProMed, Saudi Arabia & Yemen (05) ",,20001002.17
+0,SAU,,,,,2000,,10,,40,,20,9,,,,,"ProMed, Saudi Arabia & Yemen (05) ",,20001002.17
+1,SAU,Eastern Province,SAU.8_1,Ahsa,,2000,,10,,40,,2,NA,,,,,"ProMed, Saudi Arabia & Yemen (05) ",,20001002.17
+0,SAU,,,,,2000,,10,,41,,130,16,,,,,Saudi Arabia & Yemen (06),,20001016.18
+0,SAU,,,,,2000,,10,,42,,22,70,,,,,Saudi Arabia & Yemen (06),,20001016.18
+1,SAU,Jizan,SAU.10_1,,,2000,,10,,42,,1,1,,,,,Saudi Arabia & Yemen (06),,20001016.18
+0,SAU,,,,,2000,,10,,42,,32,5,,,,,"ProMed, Saudi Arabia & Yemen (07)",,20001022.18
+0,SAU,,,,,2000,,10,,42,,NA,8,,,,,"ProMed, Saudi Arabia & Yemen (08)",,20001024.18
+0,SAU,,,,,2000,,10,,43,,25,0,,,,,"ProMed, Saudi Arabia & Yemen (08)",,20001024.18
+0,SAU,,,,,2000,,10,,43,,17,4,,,,,"ProMed, Saudi Arabia & Yemen (09)",,20001026.19
+0,SAU,,,,,2000,2000,10,11,44,,58,3,,,,,"ProMed, Saudi Arabia & Yemen (10)",,20001031.19
+1,SAU,Asir?,SAU.1_1,,,2000,,11,,45,,94,9,,,,,"ProMed, Saudi Arabia (12)",,20001109.2
+1,SAU,Jizan,SAU.10_1,,,2000,,11,,47,,3,NA,,,,,"ProMed, Saudi Arabia (13)",,20001121.2
+1,SAU,Asir,SAU.1_1,,,2000,,11,,47,,5,NA,,,,,"ProMed, Saudi Arabia (13)",,20001121.2
+0,SAU,,,,,2000,,11,,47,,87,3,,,,,"ProMed, Saudi Arabia (13)",,20001121.2
+0,SAU,,,,,2000,2000,11,11,47,48,32,1,,,,,"ProMed, Saudi Arabia (14)",,20001128.21
+1,SAU,Asir?,SAU.1_1,,,2000,2000,11,12,48,,7,2,,,,,"ProMed, Saudi Arabia (15)",,20001130.21
+0,SAU,,,,,2000,2000,12,12,49,50,57,3,,,,,"ProMed, Saudi Arabia (17)",,20001218.22
+0,SAU,,,,,2000,2001,12,1,51,1,50,5,,,,,"ProMed, Saudi Arabia",,20010107.01
+0,SAU,,,,,2001,,1,,2,,10,2,,,,,"ProMed, Saudi Arabia (02)",,20010111.01
+0,SAU,,,,,2001,,1,,2,,4,3,,,,,"ProMed, Saudi Arabia & Yemen, Saudi Arabia (04)",,"20010115.0116, 20010116.0126"
+0,SAU,,,,,2001,2001,1,3,4,11,21,5,,,,,"ProMed, Saudi Arabia (06)",,20010321.06
+1,SAU,Asir,SAU.1_1,,,2001,,2,3,8,11,2,,,,,,"ProMed, Saudi Arabia (06)",,20010321.06
+1,SAU,Makkah,SAU.11_1,,,2001,,2,3,8,11,2,,,,,,"ProMed, Saudi Arabia (06)",,20010321.06
+1,SDN,"White Nile, Sennar, Al-Jazira","SDN.18_1,SDN.13_1,SDN.1_1",,,2007,,10,,42,,125,60,,,,Data given by reports seems suspect (inconsistent from one report to the next),"ProMed, Sudan",,"20071103.3570, 20071106.3611"
+1,SDN,"White Nile, Sennar, Al-Jazira","SDN.18_1,SDN.13_1,SDN.1_1",,,2007,2007,10,11,43,,103,24,,,,Data given by reports seems suspect (inconsistent from one report to the next),"ProMed, Sudan (03)",,20071109.36
+0,SDN,,,,,2007,,11,,44,,22,0,,,,Data given by reports seems suspect (inconsistent from one report to the next),"Promed, Sudan (05)",,20071111.37
+1,SDN,"White Nile, Sennar, Al-Jazira, Khartoum","SDN.18_1, SDN.13_1, SDN.1_1, SDN.7_1",,,2007,,11,,44,46,89,70,,,,subtracted row above from total,"ProMed, Sudan (09): WHO",,20071122.38
+1,SDN,"White Nile, Sennar, Al-Jazira","SDN.18_1,SDN.13_1,SDN.1_1",,,2007,,11,,45,,79,12,,,,Data given by reports seems suspect (inconsistent from one report to the next),"ProMed, Sudan - (06): WHO",,20071115.37
+1,SDN,"White Nile, Sinnar, Al-Jazira","SDN.18_1,SDN.13_1,SDN.1_1",,,2007,,11,,46,,33,0,,,,Data given by reports seems suspect (inconsistent from one report to the next),"ProMed, Sudan (08)",,20071121.38
+0,SDN,"White Nile, Sinnar,  Al-Jazira","SDN.18_1,SDN.13_1,SDN.1_1",,,2007,2007,11,12,47,51,114,0,,,,,"ProMed, Sudan (10) ",,20071220.41
+1,SDN,"Gazeera, Kassala, Khartoum, River Nile, Sinnar, and White Nile","SDN.1_1, SDN.6_1,  SDN.7_1, SDN.12_1, SDN.13_1, SDN.18_1",,,2007,2008,12,1,52,1,133,56,,,,Data given by reports seems suspect (inconsistent from one report to the next),"ProMed, Sudan (11): WHO",,20080122.03
+0,SDN,,,,,2008,,,,,,49,8,,,,,ProMed,,20191120.68
+1,SDN,White Nile,SDN.18_1,,,2019,2019,9,11,38,46,1,0,,,,,https://reliefweb.int/report/sudan/rift-valley-fever-republic-sudan-disease-outbreak-news-14-november-2019,"ProMed, SUDAN (07): (RED SEA, RIVER NILE) HUMAN, LIVESTOCK, WHO",20191120.68
+1,SDN,River Nile,SDN.12_1,,,2019,2019,9,11,38,46,168,6,,,,,https://reliefweb.int/report/sudan/rift-valley-fever-republic-sudan-disease-outbreak-news-14-november-2019,"ProMed, SUDAN (07): (RED SEA, RIVER NILE) HUMAN, LIVESTOCK, WHO",20191120.68
+1,SDN,Red Sea,SDN.11_1,,,2019,2019,9,11,38,46,120,4,,,,,https://reliefweb.int/report/sudan/rift-valley-fever-republic-sudan-disease-outbreak-news-14-november-2019,"ProMed, SUDAN (07): (RED SEA, RIVER NILE) HUMAN, LIVESTOCK, WHO",20191120.68
+1,SDN,Khartoum,SDN.7_1,,,2019,2019,9,11,38,46,1,1,,,,,https://reliefweb.int/report/sudan/rift-valley-fever-republic-sudan-disease-outbreak-news-14-november-2019,"ProMed, SUDAN (07): (RED SEA, RIVER NILE) HUMAN, LIVESTOCK, WHO",20191120.68
+1,SDN,Kassala,SDN.6_1,,,2019,2019,9,11,38,46,2,0,,,,,https://reliefweb.int/report/sudan/rift-valley-fever-republic-sudan-disease-outbreak-news-14-november-2019,"ProMed, SUDAN (07): (RED SEA, RIVER NILE) HUMAN, LIVESTOCK, WHO",20191120.68
+2,SDN,Al Qadarif,SDN.2_1,Gedaref,SDN.2.3_1,2019,2019,9,11,38,46,1,0,,,,,https://reliefweb.int/report/sudan/rift-valley-fever-republic-sudan-disease-outbreak-news-14-november-2019,"ProMed, SUDAN (07): (RED SEA, RIVER NILE) HUMAN, LIVESTOCK, WHO",20191120.68
+1,SDN,Red Sea,SDN.11_1,,,2019,2019,11,11,46,47,6,NA,,,,,https://reliefweb.int/disaster/ep-2019-000150-sdn,,
+1,SDN,River Nile,SDN.12_1,,,2019,2019,11,11,46,47,9,NA,,,,,https://reliefweb.int/disaster/ep-2019-000150-sdn,,
+0,SDN,Northern,SDN.10_1,Ed Debba & Merowe,SDN.10.3_1,2020,,9,,,,1512,63,,,,"Numbers reported by the resistance: 1962/79, From news paper",,"Promed, Sudan: (NO)","20201018.7868637, 20201102.7908919"
+1,SEN,Dakar,SEN.1_1,,,2003,,,,,,1,NA,,,1,imported from Mauritania,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2878230/,,
+1,SEN,Kedougou,SEN.6_1,Baya village,,2012,,10,,40,,1,NA,School teacher,,,,Sow 2014 (2),https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,
+2,SEN,Kedougou,SEN.6_1,Kedougou,SEN.6.1_1,2012,,10,,40,,1,NA,Tradesman,,,Were listed in 2013 on oie.int,Sow 2014 (2),https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,
+2,SEN,Kedougou,SEN.6_1,Bandafassi,SEN.6.1_1,2012,,10,,40,,1,NA,Housewife,,,Were listed in 2013 on oie.int,Sow 2014 (2),https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,
+2,SEN,Kédougou,SEN.6_1,Kédougou,SEN.6.1_1,2013,2014,9,2,,,2,0,,,,,Sow 2016,,
+2,SEN,Thiès,SEN.13_1,Mbour,SEN.13.1_1,2013,2014,9,2,,,8,0,,,,,Sow 2016,,
+2,SEN,Louga,SEN.8_1,Linguère,SEN.8.2_1,2013,,11,,,,1,0,,,,,Sow 2016,,
+0,SEN,,,,,2015,,,,,,1,NA,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+1,SOM,Gedo,SOM.7_1,,,1997,1998,11,2,47,7,1,NA,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00051976.htm#00001662.gif,,
+1,SOM,Shabeellaha Hoose,SOM.15_1,,,1997,1998,11,2,47,7,4,NA,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00051976.htm#00001662.gif,,
+1,SOM,Hiiraan,SOM.8_1,,,1997,1998,11,2,47,7,1,NA,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00051976.htm#00001662.gif,,
+0,SOM,Juba,,,,2007,2007,1,2,2,6,76,38,,,,,Nderitu 2011,"ProMed, Eastern Africa (07): Somalia, susp.",
+1,SOM,Gedo,SOM.7_1,,,2007,2007,1,2,2,6,26,7,,,,,Nderitu 2011,"ProMed, East Africa (31): WHO update",
+0,SSD,,,,,2017,,,,,,40,5,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,,
+2,SSD,Lakes,SSD.4_1,Yerol East,SSD.4.4_1,2018,2018,1,2,2,5,20,3,,,,,"ProMed, South Sudan (02): (EL)",,20180130.56
+2,SSD,Lakes,SSD.4_1,Yerol East,SSD.4.4_1,2018,2018,2,3,6,9,12,1,,,,,"ProMed, South Sudan (04): (EL) human, livestock",,20180309.57
+2,SSD,Lakes,SSD.4_1,Yerol East,SSD.4.4_1,2018,,3,,10,,5,0,,,,,ProMed,,20180312.57
+2,SSD,Lakes,SSD.4_1,Yerol West,SSD.4.4_1,2018,,3,,10,,3,0,,,,,"ProMed, South Sudan (07): (EL)",,20180312.57
+2,SSD,Lakes,SSD.4_1,Yerol East,SSD.4.4_1,2018,2018,3,3,11,12,6,0,,,,,"Promed, South Sudan (09): (EL) human, animal, WHO",,20180410.57
+1,TZA,"Arusha, Kilimanjaro ","TZA.1_1, TZA.9_1",,,1997,,,,,,2,NA,,,,"5 cases reported 1997-1998, 3 confirmed in ProMed for 1998",CDC 1998,,
+1,TZA,"Arusha, Kilimanjaro ","TZA.1_1, TZA.9_1",,,1998,,2,,,,3,NA,,,,,"ProMed, Tanzania (02)",,19980309.04
+1,TZA,Arusha,TZA.1_1,,,2007,2007,1,2,5,6,4,2,,,,,"ProMed, East Africa (14): Tanzania",,"20070206.0465, 20070212.0533"
+1,TZA,Arusha,TZA.1_1,,,2007,2007,2,2,7,8,4,2,,,,,"ProMed, Eastern Africa (25): Tanzania (Dodoma), WHO",,20070324.1
+1,TZA,Dodoma,TZA.3_1,,,2007,,3,,10,,NA,10,,,,,"ProMed, Eastern Africa (22): Tanzania (Dodoma)",,20070315.09
+1,TZA,Dodoma,TZA.3_1,,,2007,,3,,11,,100,6,,,,at least 100 cases,"ProMed, Eastern Africa (23): Tanzania (Dodoma)",,20070320.1
+,TZA,Dodoma,TZA.3_1,,,2007,,3,,11,,0,2,,,,this report sets total at 79 + 15 deaths,"ProMed, Eastern Africa (24): Tanzania (Dodoma)",,20070323.1
+1,TZA,Morogoro,TZA.14_1,,,2007,,3,,11,,60,NA,,,,,"ProMed, Eastern Africa (25): Tanzania (Dodoma), WHO",,20070324.1
+1,TZA,Dodoma,TZA.3_1,,,2007,2007,4,4,15,16,81,56,,,,"likely not actually from this week, just reporting that caught up","ProMed, Eastern Africa (28): Tanzania",,20070422.13
+1,UGA,Kabale,UGA.12_1,,,2016,,3,,10,,2,NA,,,,,"ProMed, Uganda: (KA)",,20160313.41
+1,UGA,Kabale,UGA.12_1,,,2016,,3,,11,,3,1,,,,,"ProMed, Uganda (02): (KA)",,20160317.41
+0,UGA,,,,,2017,2018,8,1,,,5,0,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,"ProMed, Uganda",20180124.56
+2,UGA,Kiboga,UGA.25_1,Kiboga,UGA.25.1_1,2017,,11,,,,1,1,,,,,"ProMed, Uganda",,20171126.55
+2,UGA,Mubende,UGA.43_1,Mityana,UGA.43.4_1,2017,,11,,,,1,1,,,,,"ProMed, Uganda",,20171126.55
+2,UGA,Mukono,UGA.44_1,Buikwe,UGA.44.1_1,2018,,1,,,,1,1,,,,,"ProMed, Uganda",,20180124.56
+1,UGA,Kasese,UGA.21_1,Kanyatsi,,2018,,6,,26,,1,1,butcher,,,,"ProMed, Eastern Africa (13): Uganda, WHO",,20180711.59
+2,UGA,Kasese,UGA.21_1,Bukonjo,UGA.21.1_1,2018,,6,,26,,1,1,,,,,https://apps.who.int/iris/bitstream/handle/10665/273028/OEW27-300606072018.pdf,"ProMed, Eastern Africa (13): Uganda, WHO and Eastern Africa (17): Uganda",20180711.59
+2,UGA,Mbarara,UGA.39_1,Isingiro,UGA.39.3_1,2018,,6,,26,,1,1,herdsman,,,,"ProMed, Eastern Africa (13): Uganda, WHO and Eastern Africa (17): Uganda",,20180711.59
+1,UGA,Mbarara,UGA.39_1,,,2018,,6,,26,,1,0,,,,,"ProMed, Eastern Africa (13): Uganda, WHO",,20180711.59
+2,UGA,Mbarara,UGA.39_1,Ibanda,UGA.39.2_1,2018,,6,,26,,1,0,,,,,"ProMed, Eastern Africa (13): Uganda, WHO",,20180711.59
+1,UGA,Mbarara,UGA.39_1,,,2018,,7,,29,,1,1,,,,,"ProMed, Eastern Africa (18): Uganda",,20180720.59
+2,UGA,Mbarara,UGA.39_1,Ibanda or Insigiro,"UGA.39.3_1, UGA.39.2_1",2018,,7,,,,1,NA,,,,,https://apps.who.int/iris/bitstream/handle/10665/273028/OEW27-300606072018.pdf,"ProMed, Eastern Africa (17): Uganda",20180717.59
+2,UGA,Kiboga,UGA.25_1,Kiboga,UGA.25.1_1,2018,,7,,,,1,0,,,,,"ProMed, Eastern Africa (28): Uganda",,20180816.6
+2,UGA,Mubende,UGA.43_1,Mityana,UGA.43.4_1,2018,,7,,,,1,0,,,,,"ProMed, Eastern Africa (28): Uganda",,20180816.6
+2,UGA,Mukono,UGA.44_1,Buikwe,UGA.44.1_1,2018,,7,,,,1,0,,,,,"ProMed, Eastern Africa (28): Uganda",,20180816.6
+2,UGA,Moyo,UGA.41_1,Obongi,UGA.41.1_1,2019,,11,,,,1,1,refugee/migrant worker,,1,recent travel history from South Sudan,"ProMed, EASTERN AFRICA (06): UGANDA ex SOUTH SUDAN",,20191209.68
+2,UGA,Bundibugyo,UGA.5_1,Ntoroko,UGA.5.2_1,2019,,12,,,,1,1,,,,,"ProMed, EASTERN AFRICA (01): UGANDA (NTOROKO) HUMAN",,20200102.69
+0,YEM,Hodeidah,YEM.5_1,,,2000,2000,9,9,37,39,117,31,,,,,"ProMed, SAUDI ARABIA & YEMEN (05)",,20001002.17
+0,YEM,,,,,2000,,10,,40,41,204,6,,,,,"ProMed, RIFT VALLEY FEVER - YEMEN (03)",,20001004.17
+0,YEM,,,,,2000,,10,,42,,179,33,,,,,"ProMed, RIFT VALLEY FEVER - SAUDI ARABIA & YEMEN (07",,20001022.18
+0,YEM,,,,,2000,,10,,42,,153,10,,,,,"ProMed, YEMEN (05)",,20001026.19
+0,YEM,,,,,2000,,10,,43,,53,17,,,,,"ProMed, SAUDI ARABIA & YEMEN (09)",,20001026.19
+0,YEM,,,,,2000,2000,10,11,44,45,381,24,,,,,"ProMed, Yemen (06)",,20001203.21
+1,ZAF,Mpumalanga,ZAF.6_1,,,2008,2008,1,6,,,6,0,,,,17 conf. in Archer 2013,"Acher 2013, https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses","ProMed, South Africa",20080701.2
+1,ZAF,Gauteng,ZAF.3_1,,,2008,2008,1,6,,,9,0,,,,17 conf. in Archer 2013,"Acher 2013, https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses","ProMed, South Africa",20080701.2
+1,ZAF,Limpopo,ZAF.5_1,,,2008,2008,1,6,,,2,0,,,,17 conf. in Archer 2013,"Acher 2013, https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses","ProMed, South Africa",20080701.2
+1,ZAF,KwaZulu-Natal,ZAF.4_1,,,2009,2009,2,4,,,5,0,,,,,"Archer 2013, https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses",,20090310.1
+1,ZAF,Northern Cape Province,ZAF.8_1,,,2009,,10,,,,2,0,,,,"4 suspected, 2 confirmed","Archer 2013, https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses","ProMed, South Africa: (NC), novel genotype",20091120.4
+1,ZAF,Free State ,ZAF.2_1,,,2010,2010,2,3,8,10,7,1,,,,FS - 125 in Archer 2013,"ProMed, South Africa: (FS, NC)",,20100309.08
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,,3,,10,,3,0,,,,EC - 16 in Archer 2013,"ProMed, South Africa (03): (FS, EC, NC, GT, NW)",,20100321.09
+1,ZAF,Free State,ZAF.2_1,,,2010,,3,,10,,14,1,,,,FS - 125 in Archer 2013,"ProMed, South Africa (02): (FS)",,20100316.08
+1,ZAF,Free State,ZAF.2_1,,,2010,,3,,10,,16,0,,,,FS - 125 in Archer 2013,"ProMed, South Africa (03): (FS, EC, NC, GT, NW)",,20100321.09
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,3,,10,,2,0,,,,NC - 80 in Archer 2013,"ProMed, South Africa (03): (FS, EC, NC, GT, MP)",,20100321.09
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,,3,,12,,1,0,,,,EC - 16 in Archer 2013,"ProMed, South Africa (05): (FS, EC, NC, GT, NW)",,20100328.1
+1,ZAF,Free State,ZAF.2_1,,,2010,,3,,12,,4,0,,,,FS - 125 in Archer 2013,"ProMed, South Africa (04): (FS, EC, NC, GT, NW)",,20100324.09
+1,ZAF,Free State,ZAF.2_1,,,2010,,3,,12,,13,0,,,,FS - 125 in Archer 2013,"ProMed, South Africa (05): (FS, EC, NC, GT, NW)",,20100328.1
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,3,,12,,1,0,,,,NC - 80 in Archer 2013,"ProMed, South Africa (04): (FS, EC, NC, GT, NW)",,20100324.09
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,3,,12,,2,0,,,,NC - 80 in Archer 2013,"ProMed, South Africa (05): (FS, EC, NC, GT, NW)",,20100328.1
+1,ZAF,Free State,ZAF.2_1,,,2010,2010,3,4,13,,12,2,,,,FS - 125 in Archer 2013,"ProMed, South Africa (08): (multi-province)",,20100403.11
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,2010,3,4,13,,5,1,,,,NC - 80 in Archer 2013,"ProMed, South Africa (08): (multi-province)",,20100403.11
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,,4,,14,,3,0,,,,EC - 16 in Archer 2013,"ProMed, South Africa (09): multi-province",,20100407.11
+1,ZAF,Free State,ZAF.2_1,,,2010,,4,,14,,2,0,,,,FS - 125 in Archer 2013,"ProMed, South Africa (09): multi-province",,20100407.11
+1,ZAF,North West,ZAF.7_1,,,2010,,4,,14,,1,0,,,,NW - 8 in Archer 2013,"ProMed, South Africa (09): multi-province",,20100407.11
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,4,,14,,1,1,,,,NC - 80 in Archer 2013,"ProMed, South Africa (09): multi-province",,20100407.11
+1,ZAF,Free State,ZAF.2_1,,,2010,,4,,15,,4,1,,,,FS - 125 in Archer 2013,"ProMed, South Africa (11)",,20100415.12
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,4,,15,,11,2,,,,NC - 80 in Archer 2013,"ProMed, South Africa (11)",,20100415.12
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,,4,,16,,1,0,,,,EC - 16 in Archer 2013,"ProMed, South Africa (12)",,20100422.13
+1,ZAF,Free State,ZAF.2_1,,,2010,,4,,16,,14,0,,,,FS - 125 in Archer 2013,"ProMed, South Africa (12)",,20100422.13
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,4,,16,,15,0,,,,NC - 80 in Archer 2013,"ProMed, South Africa (12)",,20100422.13
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,,5,,17,,1,0,,,,EC - 16 in Archer 2013,"ProMed, South Africa (16)",,20100509.15
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,,5,,18,,4,0,,,,EC - 16 in Archer 2013,"ProMed, South Africa (16)",,20100509.15
+1,ZAF,Free State,ZAF.2_1,,,2010,,5,,18,,12,3,,,,FS - 125 in Archer 2013,"ProMed, South Africa (16)",,20100509.15
+1,ZAF,North West,ZAF.7_1,,,2010,,5,,18,,1,0,,,,NW - 8 in Archer 2013,"ProMed, South Africa (16)",,20100509.15
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,,5,,18,,19,4,,,,NC - 80 in Archer 2013,"ProMed, South Africa (16)",,20100509.15
+1,ZAF,Western Cape,ZAF.9_1,,,2010,,5,,18,,3,1,,,,WC - 11 in Archer 2013,"ProMed, South Africa (16)",,20100509.15
+1,ZAF,Free State,ZAF.2_1,,,2010,2010,5,6,19,,18,NA,,,,FS - 125 in Archer 2013,"ProMed, South Africa (20): (EC)",,20100624.21
+1,ZAF,North West,ZAF.7_1,,,2010,2010,5,6,19,,6,NA,,,,NW - 8 in Archer 2013,"ProMed, South Africa (20): (EC)",,20100624.21
+1,ZAF,Northern Cape,ZAF.8_1,,,2010,2010,5,6,19,,24,NA,,,,NC - 80 in Archer 2013,"ProMed, South Africa (20): (EC)",,20100624.21
+1,ZAF,Western Cape,ZAF.9_1,,,2010,2010,5,6,19,,8,NA,,,,WC - 11 in Archer 2013,"ProMed, South Africa (20): (EC)",,20100624.21
+1,ZAF,Eastern Cape,ZAF.1_1,,,2010,2010,5,6,20,24,4,1,,,,EC - 16 in Archer 2013 (17 total here),"ProMed, South Africa (20): (EC)",,20100624.21
+1,ZAF,Western Cape,ZAF.9_1,,,2011,,1,,3,,1,NA,,,,"14 in Acher 2013, added row","ProMed, South Africa (02): vaccination policy, RFI",,20110125.03
+1,ZAF,Northern Cape,ZAF.8_1,,,2011,2011,1,5,,,3,0,,,,,Archer 2013,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,
+1,ZAF,Free State,ZAF.2_1,,,2011,2011,1,5,,,3,0,,,,,Archer 2013,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,
+1,ZAF,Western Cape,ZAF.9_1,,,2011,2011,1,5,,,13,,,,,"14 in Acher 2013, new row ",Archer 2013,"ProMed, South Africa (02): vaccination policy, RFI",
+1,ZAF,Eastern Cape,ZAF.1_1,,,2011,2011,1,5,,,17,0,,,,,Archer 2013,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,
+1,ZAF,Free State,ZAF.2_1,,,2018,,6,,,,8,0,,,,,https://www.oie.int/wahis_2/public/wahid.php/Countryinformation/Zoonoses,"ProMed, Eastern Africa (06)",20180625.59

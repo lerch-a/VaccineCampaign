@@ -1,0 +1,83 @@
+Lowest_gadm_level_entered,ADM_0,ADM1_name,ADM1_code,ADM2_name,ADM2_code,ADM3_name,ADM3_code,start_year,end_year,start_month,end_month,start_day,end_day,unknown,deceased,Total Cases ,Spillover,Human-to-human,Unknown if spillover,OCCUPATION,AGE,CUMULATIVE ,NOTES,Source
+2,BGD,Khulna,BGD.4_1,Meherpur,BGD.4.8_1,,,2001,2001,4,5,,,4,9,13,,,13,,,,,http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf
+2,BGD,Rajshahi,BGD.5_1,Naogaon,BGD.5.3_1,,,2003,2003,1,1,,,4,8,12,,,12,,,,,http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf
+2,BGD,Dhaka,BGD.3_1,Rajbari,BGD.3.14_1,,,2004,2004,1,1,,,8,23,31,,,31,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://iedcr.gov.bd/surveillances/93c87e70-9c22-4f21-9506-a1161ecf404f"
+2,BGD,Dhaka,BGD.3_1,Faridpur,BGD.3.2_1,,,2004,2004,4,4,,,9,27,36,,33,3,,,,33 person-to-person,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://iedcr.gov.bd/surveillances/93c87e70-9c22-4f21-9506-a1161ecf404f"
+2,BGD,Dhaka,BGD.3_1,Tangail,BGD.3.17_1,,,2005,2005,1,3,,,1,11,12,,,12,,,,,http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf
+2,BGD,Rangpur,BGD.6_1,Thakurgaon,BGD.6.8_1,,,2007,2007,1,2,,,4,3,7,1,,6,,,,person-to-person,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Khulna,BGD.4_1,Kushtia,BGD.4.6_1,,,2007,2007,3,3,,,3,5,8,1,,7,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+1,BGD,Rajshahi,BGD.5_1,"Naogaon, Pabna, Natore",BGD.5.3_1,,,2007,2007,1,4,,,2,1,3,3,,0,,,,"Pabna, Natore and Naogaon","http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Dhaka,BGD.3_1,Manikganj,BGD.3.8_1,,,2008,2008,2,2,,,0,4,4,1,,3,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Dhaka,BGD.3_1,Rajbari,BGD.3.14_1,,,2008,2008,2,4,,,2,5,7,1,,6,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+1,BGD,Rangpur,BGD.6_1,"Gaibandha, Rangpur, Nilphamari",NA,,,2009,2009,1,1,,,3,0,3,1,,2,,,,"Gaibandha, Rangpur, and Nilphamari","http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Dhaka,BGD.3_1,Rajbari,BGD.3.14_1,,,2009,2009,1,12,,,0,1,1,1,,0,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Dhaka,BGD.3_1,Faridpur,BGD.3.2_1,,,2010,2010,2,12,,,1,7,8,5,,3,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+1,BGD,Dhaka,BGD.3_1,"Faridpur, Rajbari, Gopalgonj, Madaripur",NA,,,2010,2010,2,12,,,1,7,8,5,,3,,,,"Faridpur, Rajbari, Gopalgonj","http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Rangpur,BGD.6_1,Kurigram,BGD.6.3_1,,,2010,2010,2,12,,,0,1,1,1,,0,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+0,BGD,"Rangpur,Chittagong,Dhaka","BGD.6_1,BGD.2_1,BGD.3_1",,,,,2011,2011,1,2,,,4,40,44,7,,37,,,,"Lalmohirhat, Dinajpur, Comilla Nilphamari, Faridpur, Rajbari, Rangpur","http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Rajshahi,BGD.5_1,Joypurhat,BGD.5.2_1,,,2012,2012,1,1,,,2,10,12,3,,9,,,,,"http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)"
+2,BGD,Rajshahi,BGD.5_1,Rajshahi,BGD.5.7_1,,,2012,2012,2,2,,,,,3,1,,2,,,,only spillover reported from first source,"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4806957/"
+2,BGD,Rajshahi,BGD.5_1,Natore,BGD.5.4_1,,,2012,2012,3,3,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Dhaka,BGD.3_1,Rajbari,BGD.3.14_1,,,2012,2012,3,3,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Dhaka,BGD.3_1,Faridpur,BGD.3.2_1,,,2012,2012,3,3,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Dhaka,BGD.3_1,Gopalganj,BGD.3.4_1,,,2012,2012,3,3,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Rangpur,BGD.6_1,Rangpur,BGD.6.7_1,,,2012,2012,11,11,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Rangpur,BGD.6_1,Dinajpur,BGD.6.1_1,,,2012,2012,12,12,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+1,BGD,Dhaka,BGD.3_1,,,,,2013,2013,1,12,,,3,,,,,3,,,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+1,BGD,Khulna,BGD.4_1,,,,,2013,2013,1,12,,,3,,,,,3,,,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+1,BGD,Rajshahi,BGD.5_1,,,,,2013,2013,1,12,,,3,,,,,3,,,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+1,BGD,Rangpur,BGD.6_1,,,,,2013,2013,1,12,,,2,,,,,2,,,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+1,BGD,"Rajshahi,Rangpur","BGD.5_1,BGD.6_1",,,,,2013,2013,1,12,,,5,,,,,5,,,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+1,BGD,Multiple,"BGD.2_1,BGD.3_1,BGD.4_1,BGD.5_1,BGD.6_1",,,,,2013,2013,1,12,,,8,,,,,8,,,,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Dhaka,BGD.3_1,Gopalganj,BGD.3.4_1,,,2013,2013,10,10,,,,,1,1,,,,,,only spillover reported,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5894074/#sup1 (supplement)
+2,BGD,Dhaka,BGD.3_1,Manikganj,BGD.3.8_1,,,2013,2014,12,2,,27,0,2,2,,,2,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Khulna,BGD.4_1,Magura,BGD.4.5_1,,,2013,2014,12,2,,27,3,2,5,,,5,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Dhaka,BGD.3_1,Faridpur,BGD.3.2_1,,,2013,2014,12,2,,27,1,4,5,,,5,,,,"some cases may be spillover, indicated in technical appendix of https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749460/",http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Rangpur,BGD.6_1,Rangpur,BGD.6.7_1,,,2013,2014,12,2,,27,2,2,4,2,,2,,,,"some cases may be spillover, indicated in technical appendix of https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749460/","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4806957/, http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf"
+2,BGD,Dhaka,BGD.3_1,Shariatpur,BGD.3.15_1,,,2013,2014,12,2,,27,0,1,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Khulna,BGD.4_1,Kushtia,BGD.4.6_1,,,2013,2014,12,2,,27,1,0,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Rajshahi,BGD.5_1,Rajshahi,BGD.5.7_1,,,2013,2014,12,2,,27,1,0,1,,,1,,,,"some cases may be spillover, indicated in technical appendix of https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749460/",http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Rajshahi,BGD.5_1,Natore,BGD.5.4_1,,,2013,2014,12,2,,27,1,0,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Rangpur,BGD.6_1,Dinajpur,BGD.6.1_1,,,2013,2014,12,2,,27,1,0,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+1,BGD,Rajshai,BGD.5_1,Chapai Nawabganj,NA,,,2013,2014,12,2,,27,1,0,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Rajshahi,BGD.5_1,Naogaon,BGD.5.3_1,,,2013,2014,12,2,,27,0,1,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Dhaka,BGD.3_1,Madaripur,BGD.3.7_1,,,2013,2014,12,2,,27,1,2,3,,,3,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+2,BGD,Dhaka,BGD.3_1,Dhaka,BGD.3.1_1,,,2013,2014,12,2,,27,1,0,1,,,1,,,,,http://www.iedcr.org/pdf/files/nipah/Nipah%20Infection_27.02.2014.pdf
+0,BGD,"Dhaka,Khulna,Rajshahi,Rangpur","BGD.3_1,BGD.4_1,BGD.5_1,BGD.6_1","Nilphamari, Ponchoghor, Faridpur, Magura, Naugaon, Rajbari","BGD.3.2_1,BGD.3.14_1,BGD.4.7_1,BGD.5.3_1,BGD.6.5_1,BGD.6.6_1",,,2015,2015,1,2,,,3,6,9,,,9,,,,"Nilphamari, Ponchoghor, Faridpur, Magura, Naugaon, Rajbari",http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf
+0,BGD,,,,,,,2017,2017,,,,,1,2,3,,,3,,,,,Promed: 0200203.6950171
+0,BGD,,,,,,,2018,2018,,,,,1,3,4,,,4,,,,,Promed: 0200203.6950171
+,BGD,Rangpur,BGD.6_1,Thakurgaon,BGD.6.8_1,,,2019,2019,3,,,,1,2,3,,,3,,,,,Promed: 20190317.6371754
+,BGD,Rangpur,BGD.6_1,Thakurgaon,BGD.6.8_1,,,2019,2019,2,,,,0,5,5,,4,1,,,,,Promed: 20190304.6349349
+1,BGD,Khulna,BGD.4_1,,,,,2020,2020,1,,11,,1,,1,,,1,,,,,Promed: 20200119.6897664
+0,BGD,,,,,,,2020,2020,,,,,1,4,5,,,5,,,,,Promed: 0200203.6950171
+3,IND,West Bengal,IND.36_1,Darjiling,IND.36.6_1,Siliguri,IND.36.6.4_1,2001,2001,1,1,31,31,0,3,3,,,3,,>15,,associated with hospitalized case,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373078/
+3,IND,West Bengal,IND.36_1,Darjiling,IND.36.6_1,Siliguri,IND.36.6.4_1,2001,2001,2,2,1,23,40,,40,,,40,,>15,,"associated with hospitalized case, deaths reported but not noted as hospital association or not",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373078/
+3,IND,West Bengal,IND.36_1,Darjiling,IND.36.6_1,Siliguri,IND.36.6.4_1,2001,2001,2,2,1,23,16,,16,,,16,,>15,,"not associated with hospital case, 18 of the Siliguri total cases are lab confirmed",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373078/
+2,IND,West Bengal,IND.36_1,Nadia,IND.36.14_1,,,2007,2007,4,4,,,0,5,5,,,5,,,,,http://origin.searo.who.int/entity/emerging_diseases/links/morbidity-and-mortality-nipah-sear-2001-2018.pdf
+2,IND,Kerala,IND.17_1,Kozhikode,IND.17.8_1,,,2018,2018,,5,,19,0,3,3,,,3,,,,"not sure of the start dates, only given as of May",https://www.who.int/csr/don/31-may-2018-nipah-virus-india/en/
+1,IND,Kerala,IND.17_1,"Kozhikode, Malappuram",NA,,,2018,2018,,5,,28,2,,2,,,2,,,,Kozhikode and Malappuram cases that are not deceased,https://www.who.int/csr/don/31-may-2018-nipah-virus-india/en/
+2,IND,Kerala,IND.17_1,Malappuram,IND.17.9_1,,,2018,2018,,5,,28,0,3,3,,,3,,,,,https://www.who.int/csr/don/31-may-2018-nipah-virus-india/en/
+2,IND,Kerala,IND.17_1,Kozhikode,IND.17.8_1,,,2018,2018,,5,,28,0,7,7,,,7,,,,,https://www.who.int/csr/don/31-may-2018-nipah-virus-india/en/
+1,IND,Kerala,IND.17_1,"Kozhikode, Malappuram",NA,,,2018,2018,5,7,28,17,0,4,4,,,4,,,,total of 19 cases and 17 deaths in Kerala in 2018,https://www.who.int/csr/don/07-august-2018-nipah-virus-india/en/
+1,IND,Kerala,IND.17_1,,,,,2019,2019,,6,,,1,,1,,,1,,23,,,Promed: 0200203.6950171
+1,PHL,Sultan Kudarat,PHL.72_1,"Midtungok, Tinalon, Isulan",NA,,,2014,2014,3,4,10,21,8,9,17,10,5,2,,,,2 human-to-human cases were healthcare workers,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313660/
+0,SGP,NA,NA,NA,NA,,,1999,1999,3,3,13,19,10,1,11,,,11,,,,abattoir workers who handled pigs from Malaysia ,"https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm, https://reader.elsevier.com/reader/sd/pii/S1386653202002688?token=9E04110BECA1106CC009D9B9A7D1003747B94689B1B546139B9565158561A74E50D3AC45E6DF22B238E71117E6A81248"
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,10,10,3,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,10,10,24,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,11,11,7,,4,,4,,,4,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,11,11,14,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,11,11,21,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,11,11,28,,2,,2,,,2,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,12,12,5,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1998,1998,12,12,26,,3,,3,,,3,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,1,1,2,,4,,4,,,4,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,1,1,9,,2,,2,,,2,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,1,1,16,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,1,1,23,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,1,1,30,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,2,2,6,,2,,2,,,2,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,2,2,13,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Selangor,MYS.15_1,NA,NA,,,1999,1999,3,3,27,,2,,2,,,2,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Selangor,MYS.15_1,NA,NA,,,1999,1999,4,4,3,,3,,3,,,3,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Perak,MYS.9_1,NA,NA,,,1999,1999,4,4,3,,1,,1,,,1,,,,,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
+1,MYS,Negeri Sembilan,MYS.7_1,NA,NA,,,1998,1999,12,4,26,27,205,,205,56,,149,,,,56 case patients reported contact with pigs,https://www.cdc.gov/mmwr/preview/mmwrhtml/00057012.htm
